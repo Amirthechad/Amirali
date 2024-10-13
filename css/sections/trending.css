@@ -1,0 +1,175 @@
+div.trending {
+  width: 100%;
+  height: 571.48px;
+
+  display: inline-block;
+  vertical-align: top;
+  position: relative;
+}
+div.trending > div.title {
+  width: 100%;
+  height: 80px;
+  
+  padding-left: 100px;
+  display: inline-block;
+  vertical-align: top;
+}
+div.trending > div.title > h3 {
+  font-family: font;
+  font-weight: 800;
+  font-size: 28px;
+  padding-top: 22px;
+  display: inline-block;
+  vertical-align: top;
+}
+div.trending > div.title > div.line {
+  width: 25px;
+  height: 3px;
+  background-color: #fa6600;
+  display: inline-block;
+  vertical-align: top;
+  position: absolute;
+  top: 38px;
+  transform: translateX(6px);
+}
+div.trending>div.trendingitems{
+    display: inline-block;
+    vertical-align: top;
+    
+}
+div.trending>div.trendingitems>div.item1{
+    display: inline-block;
+    vertical-align: top;
+    width: 334px;
+    height: 420.48px;
+ 
+    margin-left: 80px;
+   
+}
+div.trending>div.trendingitems>div.item2{
+    display: inline-block;
+    vertical-align: top;
+    width: 334px;
+    height: 420.48px;
+    
+
+}
+div.trending>div.trendingitems>div.item3{
+    display: inline-block;
+    vertical-align: top;
+    width: 334px;
+    height: 420.48px;
+
+   
+}div.trending>div.trendingitems>div.item4{
+    display: inline-block;
+    vertical-align: top;
+    width: 334px;
+    height: 420.48px;
+   
+    
+}
+div.trending>div.trendingitems>div.item1>img{
+    width: 314px ;
+    height: 286.48px ;
+    transform: translateX(10px);
+    border: 0.5px solid gray;
+    cursor: pointer;
+}
+div.trending>div.trendingitems>div.item2>img{
+    width: 314px ;
+    height: 286.48px ;
+    transform: translateX(10px);
+    border: 0.5px solid gray;
+    cursor: pointer;
+}
+div.trending>div.trendingitems>div.item3>img{
+    width: 314px ;
+    height: 286.48px ;
+    transform: translateX(10px);
+    border: 0.5px solid gray;
+    cursor: pointer;
+}
+div.trending>div.trendingitems>div.item4>img{
+    width: 314px ;
+    height: 286.48px ;
+    transform: translateX(10px);
+    border: 0.5px solid gray;
+    cursor: pointer;
+}
+div.trending>div.trendingitems>div.item1>h3{
+    display: inline-block;
+    vertical-align: top;
+    font-family: font;
+    transform: translateX(10px);
+    cursor: pointer;
+   
+}
+div.trending>div.trendingitems>div.item1>p{
+    display: inline-block;
+    vertical-align: top;
+    font-family: font;
+    transform: translate(9px,6px);
+   
+}
+div.trending>div.trendingitems>div.item2>h4{
+    display: inline-block;
+    vertical-align: top;
+    font-family: font;
+    color: #AD4C0B;
+    transform: translateX(10px);
+    
+}
+div.trending>div.trendingitems>div.item2>h3{
+    font-size: 18px;
+    font-family: font;
+    transform: translate(10px,8px);
+    cursor: pointer;
+    
+}
+div.trending>div.trendingitems>div.item2>p{
+   
+    font-family: font;
+    transform: translate(10px,16px);
+    
+}
+div.trending>div.trendingitems>div.item3>h4{
+    display: inline-block;
+    vertical-align: top;
+    font-family: font;
+    color: #AD4C0B;
+    transform: translateX(10px);
+    
+}
+div.trending>div.trendingitems>div.item3>h3{
+    font-size: 18px;
+    font-family: font;
+    transform: translate(10px,8px);
+    cursor: pointer;
+}
+div.trending>div.trendingitems>div.item3>p{
+   
+    font-family: font;
+    transform: translate(10px,16px);
+    
+}
+div.trending>div.trendingitems>div.item4>h4{
+    display: inline-block;
+    vertical-align: top;
+    font-family: font;
+    color: #AD4C0B;
+    transform: translateX(10px);
+    
+}
+div.trending>div.trendingitems>div.item4>h3{
+    font-size: 18px;
+    font-family: font;
+    transform: translate(10px,8px);
+    cursor: pointer;
+}
+div.trending>div.trendingitems>div.item4>p{
+   
+    font-family: font;
+    transform: translate(10px,16px);
+    
+}

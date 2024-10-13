@@ -1,0 +1,92 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+}
+
+div.wrapper {
+  width: 100%;
+}
+div.wrapper > div.menu {
+  width: 100%;
+  height: 50px;
+  background-color: black;
+  padding-left: 60px;
+}
+div.wrapper > div.menu > div.stores {
+  width: 15%;
+  height: 50px;
+  background-color: black;
+  display: inline-block;
+  vertical-align: top;
+}
+div.wrapper > div.menu > div.stores > a {
+  padding-left: 40px;
+  line-height: 45px;
+  font-family: font;
+  color: white;
+  font-size: 13px;
+}
+div.wrapper > div.menu > div.stores > a:hover {
+  text-decoration: underline;
+}
+div.wrapper > div.menu > div.menugap {
+  width: 38%;
+  height: 50px;
+  background-color: black;
+  display: inline-block;
+  vertical-align: top;
+}
+div.wrapper > div.menu > div.mainmenu {
+  width: 30%;
+  height: 50px;
+  background-color: black;
+  display: inline-block;
+  vertical-align: top;
+}
+div.wrapper > div.menu > div.mainmenu > a {
+  font-family: font;
+  color: white;
+  padding-left: 20px;
+  line-height: 45px;
+  font-size: 13px;
+}
+div.wrapper > div.menu > div.mainmenu > a:hover {
+  text-decoration: underline;
+}
+div.wrapper > div.menu > div.language {
+  width: 1%;
+  height: 50px;
+  background-color: black;
+  display: inline-block;
+  vertical-align: top;
+}
+div.wrapper > div.menu > div.language > img {
+  padding-top: 15px;
+}
+div.wrapper > div.menu > div.language > a {
+  font-family: font;
+  color: white;
+  padding: 2px 6px;
+}
+div.wrapper > div.menu > div.language a:hover {
+  text-decoration: underline;
+}
+div.wrapper > div.menu > div.la {
+  width: 14%;
+  height: 50px;
+  background-color: black;
+  display: inline-block;
+}
+div.wrapper > div.menu > div.la > a {
+  font-family: font;
+  color: white;
+  padding-left: 20px;
+  line-height: 45px;
+  font-size: 13px;
+}
+div.wrapper > div.menu > div.la > a:hover {
+  text-decoration: underline;
+}

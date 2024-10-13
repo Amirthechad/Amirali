@@ -1,0 +1,62 @@
+div.footer > div.title {
+  width: 1360px;
+  height: 146.8px;
+  transform: translateX(80px);
+  border-bottom: 1px solid white;
+}
+div.footer > div.title > div.logo {
+  width: 33%;
+  height: 100%;
+
+  display: inline-block;
+  vertical-align: top;
+}
+div.footer > div.title > div.logo > img {
+  transform: translate(100px, 65px);
+  cursor: pointer;
+}
+
+div.footer > div.title > div.text {
+  width: 33%;
+  height: 100%;
+
+  display: inline-block;
+  vertical-align: top;
+}
+div.footer > div.title > div.text > div.text2 {
+  width: 300px;
+  height: 58px;
+
+  transform: translate(100px, 40px);
+  font-family: font;
+}
+div.footer > div.title > div.text > div.text2 > h4 {
+  font-size: 16px;
+  color: #fa6600;
+}
+div.footer > div.title > div.text > div.text2 > p {
+  font-size: 40px;
+  font-weight: 800;
+  color: white;
+}
+div.footer > div.title > div.mail {
+  width: 33%;
+  height: 100%;
+
+  display: inline-block;
+  vertical-align: top;
+}
+div.footer > div.title > div.mail > div.button {
+  width: 244px;
+  height: 48px;
+  background-color: #fa6600;
+  transform: translate(100px, 50px);
+}
+div.footer > div.title > div.mail > div.button > a {
+  line-height: 48px;
+  margin-left: 31px;
+  font-size: 20px;
+  font-family: font;
+  color: white;
+  font-weight: 800;
+}

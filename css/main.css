@@ -1,0 +1,27 @@
+@import"./sections/mainmenu.css";
+@import"./sections/menu.css";
+@import"./sections/info.css";
+@import"./sections/midpage.css";
+@import"./sections/slider01.css";
+@import"./sections/slider02.css";
+@import"./sections/dealership.css";
+@import"./sections/inventory.css";
+@import"./sections/parts.css";
+@import"./sections/trending.css";
+@import"./sections/membership.css";
+@import"./sections/onlinestore.css";
+@import"./sections/footertitle.css";
+@import"./sections/footer.css";
+@import"./sections/header.css";
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+}
+
+@font-face {
+  font-family: font;
+  src: url(../font/Roboto-Regular.woff);
+}

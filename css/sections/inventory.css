@@ -1,0 +1,32 @@
+div.inventory{
+    width: 100%;
+    height: 112px;
+    background-color: black;
+    
+}
+div.inventory>div.title>h1{
+    color: white;
+    line-height: 112px;
+    font-family: font;
+    font-size: 30px;
+    margin-left: 100px;
+    display: inline-block;
+    vertical-align: top ;
+}
+div.inventory>div.title>div.link{
+    width: 257.25px;
+    height: 48px ;
+    background-color: #FA6600;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 33px ;
+    margin-left: 660px;
+}
+div.inventory>div.title>div.link>A{
+    line-height: 48px ;
+    color: white;
+    font-family: font;
+    font-weight: 800;
+    font-size: 20px;
+    margin-left: 33px;
+}

@@ -1,0 +1,31 @@
+div.onlinestore{
+    width: 100%;
+    height: 213.6px ;
+   
+
+  
+}
+div.onlinestore>div.text{
+    width: 1479.2px;
+    height: 84px;
+ transform: translate(18px,80px);
+ font-family: font;
+}
+div.onlinestore>div.text>h3{
+    font-size: 18px;
+    transform: translateY(-10px);
+    
+}
+div.onlinestore>div.text>p{
+    font-size: 17px;
+    display: inline;
+    vertical-align: top;
+}
+div.onlinestore>div.text>a{
+    color: black;
+    display: inline-block;
+    font-weight: 800;
+    text-decoration: underline;
+    
+    
+}
